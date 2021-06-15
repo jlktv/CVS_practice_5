@@ -3,7 +3,7 @@
 
  int amin(int argc, char * argv[])
 {
-	printf("Hello, world\n");
+	printf("Hello, friends\n");
 	return 0;
 	printf("Hello, world\n");
 }
